@@ -2,19 +2,6 @@
 
 欢迎使用米米的开源工具！
 
-## 📦 工具列表
-
-### 🌤️ 天气抓取脚本 (weather_fetch.py)
-从 weathercn.com 抓取中国城市天气数据
-
-**功能：**
-- 支持苍南、梧州等多个城市
-- 提取温度、湿度、气压、能见度、日出日落等数据
-- 支持 Playwright 自动化抓取
-
-**使用方法：**
-```bash
-python3 scripts/weather_fetch.py 苍南
 ```
 
 ---
